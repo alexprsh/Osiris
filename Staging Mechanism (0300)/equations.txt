@@ -1,0 +1,16 @@
+﻿"Middle Coupler Inner Daimeter"= 6.25in
+"Middle Coupler  Wall Thickness" = 0.25in
+"Middle Coupler Bottom Thickness"= 0.2in
+"Bearing Rail Offset"= 0.45in
+"3-56 UNF Tap"= 0.089in
+"3-56 UNF Clearance"= 0.104in
+"Ball Bearing Distance"= 0.03in
+"TCA Outer Diameter" = 8.625in
+
+"Interstage Aeroframe Wall Thickness" = 0.072in
+
+"Compression Spring OD"= 0.42in
+
+"10-24 Tap"= 0.157in
+
+"10-24 Clearance"= 0.196in
