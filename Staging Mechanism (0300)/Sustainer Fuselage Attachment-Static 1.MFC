@@ -1,0 +1,16 @@
+[StartTime]
+Sustainer Fuselage Attachment-Static 1.MFC=8s
+[SolverState]
+Sustainer Fuselage Attachment-Static 1.MFC=2
+[MainFrame]
+Sustainer Fuselage Attachment-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+Sustainer Fuselage Attachment-Static 1.MFC=No
+[SolverType]
+Sustainer Fuselage Attachment-Static 1.MFC=Linear Analysis
+[StudyType]
+Sustainer Fuselage Attachment-Static 1.MFC=0
+[StudyName]
+Sustainer Fuselage Attachment-Static 1.MFC=Static 1
+[Solver]
+Sustainer Fuselage Attachment-Static 1.MFC=Iterative
